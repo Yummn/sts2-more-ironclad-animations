@@ -1,0 +1,2 @@
+# Preserve exact asset/document bytes for checksums.manifest on every platform.
+* -text
