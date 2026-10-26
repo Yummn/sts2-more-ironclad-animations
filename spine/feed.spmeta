@@ -1,0 +1,38 @@
+{
+  "revision": "accepted-v4-native-recovery-settled-tail",
+  "timingRevision": "post-bite-middle-faster-preserve-settled-tail",
+  "sourceDuration": 1.6833333333333333,
+  "duration": 1.7,
+  "biteTime": 0.85,
+  "middleSpeed": 1.7391304347826086,
+  "settledTailStart": 1.6166666666666667,
+  "settledTailSpeed": 10,
+  "lastPoseTime": 1.6833333333333333,
+  "scale": 1.4044949899365897,
+  "offset": [
+    -208.23219425628142,
+    -406.64462094487885
+  ],
+  "referenceActorScale": 0.4592,
+  "referenceActorY": 886.6400000000001,
+  "material": {
+    "mode": "opaque-reference-look",
+    "sourceColorWeight": 0.9,
+    "referenceColorWeight": 0.1,
+    "referenceImage": "tone-reference.png",
+    "referenceTopRgb": [
+      24,
+      29,
+      40
+    ],
+    "referenceBottomRgb": [
+      45,
+      38,
+      45
+    ],
+    "referenceHeight": 1000,
+    "alpha": "Preserve original sprite alpha; apply only the accepted entrance/exit envelope and opacity slider.",
+    "formula": "RGB = 0.90 * sourceRGB + 0.10 * fixedPreviewGradientRGB; A = sourceA"
+  },
+  "originalCharacterResourcesPackaged": 0
+}

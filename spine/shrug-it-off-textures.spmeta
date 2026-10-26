@@ -1,0 +1,152 @@
+{
+  "revision": "shrug-height-mid-torso-v1",
+  "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+  "motionFile": "shrug-it-off.motion",
+  "animation": "shrug_it_off",
+  "duration": 1.2,
+  "peak": 0.48,
+  "holdEnd": 0.72,
+  "textures": [
+    {
+      "region": "shrug_palm_l_v4",
+      "file": "shrug-palm-l.png",
+      "width": 46,
+      "height": 26
+    },
+    {
+      "region": "shrug_palm_r_v4",
+      "file": "shrug-palm-r.png",
+      "width": 52,
+      "height": 29
+    }
+  ],
+  "accessoryMeshes": {
+    "top mask": {
+      "attachment": "top mask",
+      "deformLength": 96,
+      "points": [
+        {
+          "index": 2,
+          "influences": [
+            {
+              "bone": "head",
+              "x": 49.053768157958984,
+              "y": -99.9022216796875,
+              "weight": 1,
+              "offset": 4
+            }
+          ]
+        },
+        {
+          "index": 20,
+          "influences": [
+            {
+              "bone": "head",
+              "x": 61.90850830078125,
+              "y": -22.434879302978516,
+              "weight": 1,
+              "offset": 40
+            }
+          ]
+        },
+        {
+          "index": 23,
+          "influences": [
+            {
+              "bone": "head",
+              "x": 23.309329986572266,
+              "y": -40.18729019165039,
+              "weight": 1,
+              "offset": 46
+            }
+          ]
+        },
+        {
+          "index": 33,
+          "influences": [
+            {
+              "bone": "head",
+              "x": 11.223999977111816,
+              "y": -63.26601028442383,
+              "weight": 1,
+              "offset": 72
+            }
+          ]
+        },
+        {
+          "index": 34,
+          "influences": [
+            {
+              "bone": "head",
+              "x": 17.285640716552734,
+              "y": -52.14503860473633,
+              "weight": 1,
+              "offset": 74
+            }
+          ]
+        },
+        {
+          "index": 36,
+          "influences": [
+            {
+              "bone": "head",
+              "x": 28.871030807495117,
+              "y": -27.33980941772461,
+              "weight": 1,
+              "offset": 78
+            }
+          ]
+        }
+      ]
+    },
+    "bod": {
+      "attachment": "bod",
+      "deformLength": 3420,
+      "points": [
+        {
+          "index": 0,
+          "influences": [
+            {
+              "bone": "bod_upper",
+              "x": 234.3262939453125,
+              "y": -44.071800231933594,
+              "weight": 1,
+              "offset": 0
+            }
+          ]
+        },
+        {
+          "index": 4,
+          "influences": [
+            {
+              "bone": "bod_upper",
+              "x": 171.96527099609375,
+              "y": -95.31388092041016,
+              "weight": 0.9910200238227844,
+              "offset": 10
+            },
+            {
+              "bone": "bod_lower",
+              "x": 265.16900634765625,
+              "y": -134.6356964111328,
+              "weight": 0.008980000391602516,
+              "offset": 12
+            }
+          ]
+        },
+        {
+          "index": 25,
+          "influences": [
+            {
+              "bone": "bod_upper",
+              "x": 167.65435791015625,
+              "y": 94.00689697265625,
+              "weight": 1,
+              "offset": 116
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

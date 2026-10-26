@@ -1,0 +1,41 @@
+{
+  "revision": "v11-wrap-and-tail",
+  "parts": [
+    {
+      "file": "weapon-bash-break-mace.png",
+      "width": 512,
+      "height": 988,
+      "sourceSize": [
+        1024,
+        1976
+      ],
+      "pivot": [
+        515,
+        1430
+      ],
+      "sourceScale": 0.44,
+      "sourceSha256": "1372389ff61ee13783693190643193160951cf25b8bb2b3186e57f9b6cd8105f",
+      "sourceBytes": 961228,
+      "originalRgbaBytes": 8093696,
+      "optimizedRgbaBytes": 2023424
+    },
+    {
+      "file": "weapon-bludgeon-hammer.png",
+      "width": 512,
+      "height": 987,
+      "sourceSize": [
+        1024,
+        1973
+      ],
+      "pivot": [
+        528,
+        1380
+      ],
+      "sourceScale": 0.572,
+      "sourceSha256": "4e196bb24a7d71a7e527998eb2d2d1691ff5e6787eb22d0646434e70b40b3d27",
+      "sourceBytes": 961180,
+      "originalRgbaBytes": 8081408,
+      "optimizedRgbaBytes": 2021376
+    }
+  ]
+}

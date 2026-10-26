@@ -1,0 +1,4 @@
+porting/bin/
+porting/obj/
+dist/
+*.zip

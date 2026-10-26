@@ -1,0 +1,12 @@
+{
+  "id": "ShieldOnly",
+  "name": "更多战士动画（独立手机版）",
+  "author": "page（原作者）；Yummn（手机版移植）",
+  "description": "为铁甲战士添加持盾、壁垒、壁撞、恶魔形态、武器攻击与血液等动画。Android v0.111.0 独立移植，无外部模组依赖，默认启用全部动画。",
+  "version": "1.9.60-android.1",
+  "min_game_version": "v0.111.0",
+  "has_pck": false,
+  "has_dll": true,
+  "dependencies": [],
+  "affects_gameplay": false
+}

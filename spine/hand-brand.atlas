@@ -1,0 +1,44 @@
+hand-brand-rear.png
+size: 89,100
+filter: Linear,Linear
+pma: false
+arm_rear
+  bounds: 0,0,89,100
+  offsets: 512,111,713,435
+
+hand-brand-front.png
+size: 578,250
+filter: Linear,Linear
+pma: false
+arm_front
+  bounds: 0,0,578,250
+  offsets: 7,80,713,435
+
+hand-brand-iron.png
+size: 964,553
+filter: Linear,Linear
+pma: false
+branding-iron
+  bounds: 0,0,964,553
+
+hand-brand-emission.png
+size: 1254,1254
+filter: Linear,Linear
+pma: false
+brand-emission
+  bounds: 0,0,1254,1254
+
+hand-brand-glow.png
+size: 1254,1254
+filter: Linear,Linear
+pma: false
+brand-glow
+  bounds: 0,0,1254,1254
+
+hand-brand-wisp.png
+size: 75,256
+filter: Linear,Linear
+pma: false
+heat-wisp
+  bounds: 0,0,75,256
+  offsets: 25,0,128,256

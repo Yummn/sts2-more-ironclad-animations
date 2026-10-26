@@ -1,0 +1,344 @@
+{
+  "revision": "impervious-22",
+  "sourceSha256": "e520ffe3d28824710cdd1cfaafabdf2834e16f86df5f7215db23bd137fbf66c0",
+  "sampleCount": 135,
+  "slots": 43,
+  "regions": [
+    {
+      "key": "bottom upper arm",
+      "name": "r0",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "bottom upper arm"
+    },
+    {
+      "key": "bottom lower arm",
+      "name": "r1",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "bottom lower arm"
+    },
+    {
+      "key": "bottom_hand",
+      "name": "r2",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "bottom_hand"
+    },
+    {
+      "key": "top lower arm",
+      "name": "r3",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "top lower arm"
+    },
+    {
+      "key": "sword_handle",
+      "name": "r4",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "sword_handle"
+    },
+    {
+      "key": "sword blade",
+      "name": "r5",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "sword blade"
+    },
+    {
+      "key": "hip armor right back",
+      "name": "r6",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "hip armor right back"
+    },
+    {
+      "key": "hip bottom armor",
+      "name": "r7",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "hip bottom armor"
+    },
+    {
+      "key": "hip top bottom",
+      "name": "r8",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "hip top bottom"
+    },
+    {
+      "key": "hips",
+      "name": "r9",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "hips"
+    },
+    {
+      "key": "r foot",
+      "name": "r10",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "r foot"
+    },
+    {
+      "key": "r upper leg",
+      "name": "r11",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "r upper leg"
+    },
+    {
+      "key": "r lower leg",
+      "name": "r12",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "r lower leg"
+    },
+    {
+      "key": "r knee",
+      "name": "r13",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "r knee"
+    },
+    {
+      "key": "l upper leg",
+      "name": "r14",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "l upper leg"
+    },
+    {
+      "key": "l foot",
+      "name": "r15",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "l foot"
+    },
+    {
+      "key": "l lower leg",
+      "name": "r16",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "l lower leg"
+    },
+    {
+      "key": "l knee",
+      "name": "r17",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "l knee"
+    },
+    {
+      "key": "collar_back",
+      "name": "r18",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "collar_back"
+    },
+    {
+      "key": "neck",
+      "name": "r19",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "neck"
+    },
+    {
+      "key": "bod",
+      "name": "r20",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "bod"
+    },
+    {
+      "key": "l shoulder armor bottom",
+      "name": "r21",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "l shoulder armor bottom"
+    },
+    {
+      "key": "l hip armor bottom",
+      "name": "r22",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "l hip armor bottom"
+    },
+    {
+      "key": "l hip armor top",
+      "name": "r23",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "l hip armor top"
+    },
+    {
+      "key": "r hip armor bottom",
+      "name": "r24",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "r hip armor bottom"
+    },
+    {
+      "key": "r hip armor top",
+      "name": "r25",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "r hip armor top"
+    },
+    {
+      "key": "belt 3",
+      "name": "r26",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "belt 3"
+    },
+    {
+      "key": "belt 2",
+      "name": "r27",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "belt 2"
+    },
+    {
+      "key": "belt",
+      "name": "r28",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "belt"
+    },
+    {
+      "key": "l neck armor",
+      "name": "r29",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "l neck armor"
+    },
+    {
+      "key": "head",
+      "name": "r30",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "head"
+    },
+    {
+      "key": "hair",
+      "name": "r31",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "hair"
+    },
+    {
+      "key": "back mask",
+      "name": "r32",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "back mask"
+    },
+    {
+      "key": "top mask",
+      "name": "r33",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "top mask"
+    },
+    {
+      "key": "top hand",
+      "name": "r34",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "top hand"
+    },
+    {
+      "key": "top upper arm",
+      "name": "r35",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "top upper arm"
+    },
+    {
+      "key": "bottom_hand_fingers",
+      "name": "r36",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "bottom_hand_fingers"
+    },
+    {
+      "key": "r neck armor",
+      "name": "r37",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "r neck armor"
+    },
+    {
+      "key": "r shoulder armor bottom",
+      "name": "r38",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "r shoulder armor bottom"
+    },
+    {
+      "key": "r shoulder armor top",
+      "name": "r39",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "r shoulder armor top"
+    },
+    {
+      "key": "l shoulder armor top",
+      "name": "r40",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "l shoulder armor top"
+    },
+    {
+      "name": "fixed-shadow",
+      "originalAtlas": "res://animations/characters/ironclad/ironclad.atlas",
+      "originalRegion": "shadow"
+    }
+  ],
+  "materialSlots": {
+    "bottom upper arm": 0,
+    "bottom lower arm": 1,
+    "bottom_hand": 0,
+    "imp_far_forearm_front": 1,
+    "sword_handle": 2,
+    "sword blade": 2,
+    "hip armor right back": 1,
+    "hip armor bottom back": 1,
+    "hip bottom armor": 1,
+    "hip top bottom": 1,
+    "hips": 0,
+    "r foot": 1,
+    "r upper leg": 0,
+    "r lower leg": 1,
+    "r knee": 1,
+    "l upper leg": 0,
+    "l foot": 1,
+    "l lower leg": 1,
+    "l knee": 1,
+    "collar_back": 1,
+    "neck": 0,
+    "bod": 0,
+    "l shoulder armor bottom": 1,
+    "l hip armor bottom": 1,
+    "l hip armor top": 1,
+    "r hip armor bottom": 1,
+    "r hip armor top": 1,
+    "belt 3": 1,
+    "belt 2": 1,
+    "belt": 1,
+    "l neck armor": 1,
+    "head": 5,
+    "hair": 0,
+    "back mask": 5,
+    "top mask": 5,
+    "top hand": 0,
+    "top upper arm": 0,
+    "bottom_hand_fingers": 0,
+    "r neck armor": 1,
+    "r shoulder armor bottom": 1,
+    "r shoulder armor top": 1,
+    "l shoulder armor top": 1,
+    "top lower arm": 1
+  },
+  "bounds": [
+    -715,
+    -1290,
+    1286,
+    1413
+  ],
+  "shadow": {
+    "vertices": [
+      -361.3534240722656,
+      -69.84090423583984,
+      -361.35345458984375,
+      62.84090805053711,
+      345.87066650390625,
+      62.84090805053711,
+      345.8706970214844,
+      -69.84090423583984
+    ],
+    "uvs": [
+      1.3186868313139521e-8,
+      0.9999999744551519,
+      1.3186868313139521e-8,
+      -3.547895522344679e-8,
+      0.9999999957802023,
+      -3.547895522344679e-8,
+      0.9999999957802023,
+      0.9999999744551519
+    ],
+    "color": [
+      1,
+      1,
+      1,
+      1
+    ]
+  },
+  "enterSeconds": 0.55,
+  "exitSeconds": 0.45,
+  "reverseUsesForwardSamples": true,
+  "endpoint": "Original idle_loop at time zero; reverse returns to the identical endpoint",
+  "maximumIdleVertexError": 0.0001220703125,
+  "hold": "Until all enemy actions finish; no impact animations"
+}

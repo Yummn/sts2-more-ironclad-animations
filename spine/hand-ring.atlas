@@ -1,0 +1,22 @@
+hand-ring-front.png
+size: 653,250
+filter: Linear,Linear
+pma: false
+arm_front
+  bounds: 0,0,653,250
+  offsets: 7,80,713,435
+
+hand-ring-rear.png
+size: 102,116
+filter: Linear,Linear
+pma: false
+rear_fingers
+  bounds: 0,0,102,116
+  offsets: 524,89,713,435
+
+hand-ring-bell.png
+size: 1254,1254
+filter: Linear,Linear
+pma: false
+bell
+  bounds: 0,0,1254,1254

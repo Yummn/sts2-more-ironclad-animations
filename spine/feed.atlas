@@ -1,0 +1,203 @@
+feed-wing_far.png
+size: 309, 435
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+wing_far
+  bounds: 0, 0, 309, 435
+  offsets: 0, 0, 309, 435
+  rotate: false
+  index: -1
+
+feed-wing_near.png
+size: 595, 805
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+wing_near
+  bounds: 0, 0, 595, 805
+  offsets: 0, 0, 595, 805
+  rotate: false
+  index: -1
+
+feed-mane_rear.png
+size: 71, 106
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+mane_rear
+  bounds: 0, 0, 71, 106
+  offsets: 0, 0, 71, 106
+  rotate: false
+  index: -1
+
+feed-body_skin.png
+size: 988, 592
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+body_skin
+  bounds: 0, 0, 988, 592
+  offsets: 0, 0, 988, 592
+  rotate: false
+  index: -1
+
+feed-head_base.png
+size: 171, 182
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+head_base
+  bounds: 0, 0, 171, 182
+  offsets: 0, 0, 171, 182
+  rotate: false
+  index: -1
+
+feed-mouth_inner.png
+size: 197, 205
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+mouth_inner
+  bounds: 0, 0, 197, 205
+  offsets: 0, 0, 197, 205
+  rotate: false
+  index: -1
+
+feed-mouth_cap.png
+size: 148, 79
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+mouth_cap
+  bounds: 0, 0, 148, 79
+  offsets: 0, 0, 148, 79
+  rotate: false
+  index: -1
+
+feed-jaw_lower.png
+size: 240, 248
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+jaw_lower
+  bounds: 0, 0, 240, 248
+  offsets: 0, 0, 240, 248
+  rotate: false
+  index: -1
+
+feed-tongue.png
+size: 118, 87
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+tongue
+  bounds: 0, 0, 118, 87
+  offsets: 0, 0, 118, 87
+  rotate: false
+  index: -1
+
+feed-teeth_lower.png
+size: 86, 70
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+teeth_lower
+  bounds: 0, 0, 86, 70
+  offsets: 0, 0, 86, 70
+  rotate: false
+  index: -1
+
+feed-teeth_upper.png
+size: 121, 63
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+teeth_upper
+  bounds: 0, 0, 121, 63
+  offsets: 0, 0, 121, 63
+  rotate: false
+  index: -1
+
+feed-mane_upper.png
+size: 563, 217
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+mane_upper
+  bounds: 0, 0, 563, 217
+  offsets: 0, 0, 563, 217
+  rotate: false
+  index: -1
+
+feed-mane_lower.png
+size: 387, 398
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+mane_lower
+  bounds: 0, 0, 387, 398
+  offsets: 0, 0, 387, 398
+  rotate: false
+  index: -1
+
+feed-horn_far.png
+size: 229, 262
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+horn_far
+  bounds: 0, 0, 229, 262
+  offsets: 0, 0, 229, 262
+  rotate: false
+  index: -1
+
+feed-horn_near.png
+size: 235, 343
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+horn_near
+  bounds: 0, 0, 235, 343
+  offsets: 0, 0, 235, 343
+  rotate: false
+  index: -1
+
+feed-mask_gold.png
+size: 377, 169
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+mask_gold
+  bounds: 0, 0, 377, 169
+  offsets: 0, 0, 377, 169
+  rotate: false
+  index: -1
+
+feed-eye.png
+size: 88, 41
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+pma: false
+eye
+  bounds: 0, 0, 88, 41
+  offsets: 0, 0, 88, 41
+  rotate: false
+  index: -1

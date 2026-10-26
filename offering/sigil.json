@@ -1,0 +1,17 @@
+{
+  "source": "offering/compare-v1 revision 05; user accepted parameters 2026-10-04",
+  "settings": {"starScale": 1.2, "raise": 15, "perspective": 0.8, "glow": 1.0, "uplight": 0.7},
+  "duration": 0.8,
+  "fps": 60,
+  "frames": 48,
+  "frameSize": [512, 384],
+  "atlasSize": [4096, 2304],
+  "columns": 8,
+  "designFootPivotInFrame": [256, 312],
+  "designToWorldScale": 0.6,
+  "referenceBodyGlobalScale": 0.238,
+  "color": "red",
+  "props": "none",
+  "playback": "independent, reset same actor instance on Offering OnPlay, no gameplay wait",
+  "scope": "same local owner as existing Offering blood return"
+}

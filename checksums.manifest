@@ -1,0 +1,506 @@
+[
+  {
+    "path": "验证报告.md",
+    "sha256": "8886352859C738C24B18AB1746A0F8AFD998D1333BAB701E141E8BBEC8C646D9"
+  },
+  {
+    "path": "blood/atlas.png",
+    "sha256": "0C1D2426A4344D99C1FA6A1EB1EBA177CAC6CA7C04D696800D87E20FB28E1937"
+  },
+  {
+    "path": "blood/plans.blood",
+    "sha256": "82DE9A10EA36CC4D218C983A101A385FF4BDE44E750CD3BFFF003B349FBB6C81"
+  },
+  {
+    "path": "offering/sigil.json",
+    "sha256": "D2E4724DDF416083EEC58E3DD09ABF76442B91B9DE1FA83FC7996622B8AEA02F"
+  },
+  {
+    "path": "offering/sigil.png",
+    "sha256": "447978C99FC89E095B296ADC33C5859EB9285E4BC69D8B2C3267A09F2E1064DF"
+  },
+  {
+    "path": "README.md",
+    "sha256": "82C5DB79E2F1E68426FFCAB0F7F8A483E0ADAF1F1AE88C2C1EF775CF6E235A84"
+  },
+  {
+    "path": "ShieldOnly.dll",
+    "sha256": "F264FE79D475CC3CFFF3037A45A6A34D4FFCB82CC5BB9AE5DD4A6D6E96E407E4"
+  },
+  {
+    "path": "ShieldOnly.json",
+    "sha256": "05142E89F38535E2FCEC5B9A49532EBC424CB246ABFC9DCDD94DB8338ACC8A86"
+  },
+  {
+    "path": "spine/barricade-arrow-02-34.png",
+    "sha256": "0EC447D2F9D7DE068703F9E357AB625DFD3657C39B7522D921A4742FE7A4DF5C"
+  },
+  {
+    "path": "spine/barricade-arrow-03-03.png",
+    "sha256": "EE251F466E772128E03C5A0F6C2DE802056C32E3133C232A4AEC7DE882185F9D"
+  },
+  {
+    "path": "spine/barricade-arrow-06-00.png",
+    "sha256": "5E8CC14C30CDF2C4FF4F1F2907D96FD4420C85A1DEA2CD860E6BE0F02C39D991"
+  },
+  {
+    "path": "spine/barricade-arrow-10-02.png",
+    "sha256": "1915670D79C8169EBC094A0149D44E2A65227148DFAED43C540D052E1CC055F4"
+  },
+  {
+    "path": "spine/barricade-arrow-15-01.png",
+    "sha256": "AC96DF1D35734A2045B45DC82CA50BA667A6BA5374690EA71CE41E97DB4FC722"
+  },
+  {
+    "path": "spine/barricade-debris-01-01.png",
+    "sha256": "C65A0EC570B51C5D86649DA1E3172E9CBD19AF657435C717D520B57F1F878C72"
+  },
+  {
+    "path": "spine/barricade-debris-02-00.png",
+    "sha256": "F96FB4789CD9495D1BA3D6A514CA1DB03BA3329CDAF40F5C8ABED37511A187DA"
+  },
+  {
+    "path": "spine/barricade-debris-03-02.png",
+    "sha256": "909F0194E410A35529A65E32C9715D9C79E912BE3E630D8847BEF641F5644C61"
+  },
+  {
+    "path": "spine/barricade-debris-04-03.png",
+    "sha256": "5130F9F644B69D8E58962C34C6DF237C3134F7EC30F0D38712BFB7F3F234CFEA"
+  },
+  {
+    "path": "spine/barricade-debris-05-04.png",
+    "sha256": "7C885182DBD39C9DF3855461DCB7388D48773D726C9CCE156E4ADFC6ADD32010"
+  },
+  {
+    "path": "spine/barricade-debris-09-05.png",
+    "sha256": "018C71A8EC3F21B1D78A303782FED21370184A07A59A4C7C3D4BC8B5DC8D6E53"
+  },
+  {
+    "path": "spine/barricade-flag-09-00-cloth.png",
+    "sha256": "F496EAE25F13E0AE4CDFF234B8F10E7C980261D7646FFEB08BCA4FF1E809FE8C"
+  },
+  {
+    "path": "spine/barricade-flag-09-00-fixed.png",
+    "sha256": "493EB11C048857C1C52469B196D3D854CA03F5BC8301E7F07247C4C981EAD332"
+  },
+  {
+    "path": "spine/barricade-flag-09-00.png",
+    "sha256": "EFCB715A705A4B05BA68788F303E1A046ADD61A48A86135CB2D36B3B014282BB"
+  },
+  {
+    "path": "spine/barricade-flag-09-01-cloth.png",
+    "sha256": "285A7B004FF80D5C8B985CB5BDD4E41150887F0F0DDC1F7D9CAE937EE3E37A05"
+  },
+  {
+    "path": "spine/barricade-flag-09-01-fixed.png",
+    "sha256": "ABD38B36D0D5A41E6645F49014AC47921D5501E34C3D29B31E1EE1FF56EE56BB"
+  },
+  {
+    "path": "spine/barricade-flag-09-01.png",
+    "sha256": "7FC0629E7EB51E46784571FA581E9C97500CE1D85009D69545D4DCA0024C931C"
+  },
+  {
+    "path": "spine/barricade-impact.spmeta",
+    "sha256": "888B48085FFD14BCF3B8879BB1C12483D9AD5DC5ADD7A9470976189265A72F32"
+  },
+  {
+    "path": "spine/barricade-main.png",
+    "sha256": "03AF06E81BC40E32529DB03647743746D2131820C42B4A538453215E536DF9A9"
+  },
+  {
+    "path": "spine/barricade-placement.motion",
+    "sha256": "C187E27280491C927CE39684644F5B108EA68E9958F3C8523259362D1F532C72"
+  },
+  {
+    "path": "spine/barricade-placement.spjson",
+    "sha256": "E5EEEB92F5725C2E9B6A829506781D06F81CB0E589648AE3C3200D65CC8D7642"
+  },
+  {
+    "path": "spine/barricade-shadow-01-00.png",
+    "sha256": "E24A698743D3F42A0BEB115F467F3A35A504DDDC73D78B8345964625832688EE"
+  },
+  {
+    "path": "spine/barricade-shield-02-14.png",
+    "sha256": "297A80E24BC710C0AB4C2D2AAAF4B09E91B327C78DD5B0CD559DF59D90CC58A8"
+  },
+  {
+    "path": "spine/barricade-shield-03-11.png",
+    "sha256": "CC9F181F3F46F78E82A40927607B88629BC676EF9AE4936164E063A0D0FAA42B"
+  },
+  {
+    "path": "spine/barricade-shield-04-12.png",
+    "sha256": "3B931D736D6C9F14528819E0CF7C1D92786FF4511017F93C7BC13155F74015A0"
+  },
+  {
+    "path": "spine/barricade-shield-05-13.png",
+    "sha256": "706B61F5C0384FC957E04A57B20D426089A61B5E416D0E0FD694EE7FB93B3EF9"
+  },
+  {
+    "path": "spine/barricade-shield-06-07.png",
+    "sha256": "CC82AF346988357B89F969BB093E5789E20AC815DFBC4F5B242189CED72BBB87"
+  },
+  {
+    "path": "spine/barricade-shield-07-06.png",
+    "sha256": "B00F5D93C55717111208299251AD83B64D0217B8784F0F6BB84EE53BC78E55FB"
+  },
+  {
+    "path": "spine/barricade-shield-08-08.png",
+    "sha256": "4FA603235605BD83EF4A47DA104A6BD8784B3C03063BFED5D15A3B5BEE5FE2C6"
+  },
+  {
+    "path": "spine/barricade-shield-09-10.png",
+    "sha256": "82909EC8AE3E806C974709B8E9DACF8861969DAAF94356C4DD1048E9CE100B26"
+  },
+  {
+    "path": "spine/barricade-shield-10-05.png",
+    "sha256": "489C63C55674E29C7DD278964A5079E930568C9B412E6F16D087EA3DB84345B2"
+  },
+  {
+    "path": "spine/barricade-shield-11-09.png",
+    "sha256": "C314490046F4CE885E4B023F7BFC02D0186336D89BEBFFB2B338AD2720CA0C5C"
+  },
+  {
+    "path": "spine/barricade-shield-12-01.png",
+    "sha256": "0C07E9EB0E14A7427A0A96DC01C44EF6820BF0B21E9E16B7A864BBBFDE201EF6"
+  },
+  {
+    "path": "spine/barricade-shield-13-03.png",
+    "sha256": "892CB2E28F4AAB99E9FB06CD6CF4EE260BB4628DA4B364A177ABB0C76CC64FFA"
+  },
+  {
+    "path": "spine/barricade-shield-14-02.png",
+    "sha256": "00E5AC23E5B10DB3449C329862FD4AE50CD9351A9AB571CA9DFCF359EF58F2CF"
+  },
+  {
+    "path": "spine/barricade-shield-15-04.png",
+    "sha256": "F929220BC0CC40BF4735DCBD066E70BABE36B29D8BDA4A34ED4ED11AD0715948"
+  },
+  {
+    "path": "spine/barricade-shield-16-00.png",
+    "sha256": "2F634388AC26DA74F73BFCAD0ABB5EC9C82843EB5D83663F8C281BE1197ED593"
+  },
+  {
+    "path": "spine/barricade-textures.spmeta",
+    "sha256": "8746663BF518F1F35F2D9024D5308F4F62744F07A1C92B795DEEBAB55EB19414"
+  },
+  {
+    "path": "spine/barricade-wall.spmeta",
+    "sha256": "736FCB0C74678B380062697A9DE19A4C0629D53B43626ED3B7BC0709F4C5A9E9"
+  },
+  {
+    "path": "spine/body-slam.atlas",
+    "sha256": "50C4CB3983435E085FDAC6A5DBE73FB6C31E854CB1264F2191E08893B65A15E6"
+  },
+  {
+    "path": "spine/body-slam.motion",
+    "sha256": "38A57D48B2C456A35863E0C871280A3775E8C1ABDA63E8064138D892D5ACFBA8"
+  },
+  {
+    "path": "spine/body-slam.spjson",
+    "sha256": "1FA7D03FBAE303D1D413316FCD18E46AAB886F79262CD91316D56943BDB0329E"
+  },
+  {
+    "path": "spine/body-slam.spmeta",
+    "sha256": "1322700096A657C951185729CC11B3AC58FBC05603E5941245E92C8BC472CFBD"
+  },
+  {
+    "path": "spine/break-glow-bloom.png",
+    "sha256": "3D3DA10DC16D687DEF2C32C939107F6EF7D9F45973D9CE2D4B08825711655EA7"
+  },
+  {
+    "path": "spine/card-weapons.spmeta",
+    "sha256": "0C4F51CD911FAD1755DC99F384F8CC67326127F340A545729909168E91E42011"
+  },
+  {
+    "path": "spine/dark-embrace-arm-strip.png",
+    "sha256": "FC3CBA0D662BBFCB708A6EB12D0B2EFEF4CD6FFE6339029AA6C1C77A7DD87F44"
+  },
+  {
+    "path": "spine/dark-embrace-cup.png",
+    "sha256": "64E183CE2D1C1EE1E147B8BA5AAB7EFD30DB0B8DD82B96658868B2492908E343"
+  },
+  {
+    "path": "spine/dark-embrace-drape.png",
+    "sha256": "4134F8BCA475D7675CB3CE9236D03166D978943CD47F7C485E9D933884DED8C2"
+  },
+  {
+    "path": "spine/dark-embrace-hook.png",
+    "sha256": "1B5FDF625C01AF2A97E8B409F5748BF088B7E451CA9128D5F6F0FE23B0B3C67C"
+  },
+  {
+    "path": "spine/dark-embrace-reach.png",
+    "sha256": "52E139FF4634ACEE5568AC1B7A8D6EE2212234E40E43C8C7729CF9D20332AF80"
+  },
+  {
+    "path": "spine/dark-embrace.spmeta",
+    "sha256": "3077CD3B515307744B413AC79F6ED9EF158F65F6891ACE18C0173EC637F1A17C"
+  },
+  {
+    "path": "spine/demon-eye-fire.gdshader",
+    "sha256": "414322D9E388C0371024C0F48E33916B6D99864757F67A28BC6AA6157BE14A73"
+  },
+  {
+    "path": "spine/demon-eye-fire.png",
+    "sha256": "1AE38F13D15BA64A317844AB90DA11A74257983567D0AA7861A6844C825EAF9E"
+  },
+  {
+    "path": "spine/demon-eyes.spmeta",
+    "sha256": "65BE5F1F3D327BDF2433E21428F8BF2AFD95E209CF17B15FE65857F3E39C2686"
+  },
+  {
+    "path": "spine/demon-hands.spmeta",
+    "sha256": "AFDFE84EA3194491580A77C6AF9612BC6AD1378A7A16D03E66A90AC9A414E51F"
+  },
+  {
+    "path": "spine/demon-horn-near.png",
+    "sha256": "F31C5E6C285FE56DA54B85832DE6735252DC0A4D850371B4BEB7A9A9C0B5A312"
+  },
+  {
+    "path": "spine/demon-horns.spmeta",
+    "sha256": "2AEFF8BD59559184D6864A6AA351B41E882783717E7830A2C73C8B617F8B819D"
+  },
+  {
+    "path": "spine/demon-wing.png",
+    "sha256": "F28D285811C9C6F6937CF6BC0253F1C0287DE03DB3552633707D8E47A8994C01"
+  },
+  {
+    "path": "spine/demon-wings.spmeta",
+    "sha256": "A3CB336392219E23575477505C9909F13B0785897102E722A435B58EBF54515D"
+  },
+  {
+    "path": "spine/feed-body_skin.png",
+    "sha256": "AB728A460851B2B5DD32F840C7504275BEC525D7275C1FF276F1EDB93C15A34E"
+  },
+  {
+    "path": "spine/feed-demon.spjson",
+    "sha256": "5076E22983B8F65B19CE8D2B27990097894B8B8B13690638107965E79AB639D1"
+  },
+  {
+    "path": "spine/feed-eye.png",
+    "sha256": "22B87BB1AF1E9A34EE11705505794E99C23270D103198DD55AE75B176F189E7E"
+  },
+  {
+    "path": "spine/feed-head_base.png",
+    "sha256": "D70CE9627435163801E759F3385779A2B06E4769D604CDFD3B9A6FB6AE2055BF"
+  },
+  {
+    "path": "spine/feed-horn_far.png",
+    "sha256": "8392CAE8AF17031F29A944BE6E32297A659CB7D8AF0C59F847A8D816B3D50304"
+  },
+  {
+    "path": "spine/feed-horn_near.png",
+    "sha256": "3A261578DEF1C992BAD8939B79E4BD61317850E4735A08D5C280C8E4B15D06E5"
+  },
+  {
+    "path": "spine/feed-jaw_lower.png",
+    "sha256": "EA2D3942AB84149ECC398E029F0B9956AA826DB4D00064149A018DDD2773BC64"
+  },
+  {
+    "path": "spine/feed-mane_lower.png",
+    "sha256": "E5DD70FCDEBB98F7EB85C01D1FC610172BA807D4C6452F0D2891FA84CC081CDD"
+  },
+  {
+    "path": "spine/feed-mane_rear.png",
+    "sha256": "DD6D7D7EB705E848FD7D76E34EC0A43D1B25E1274C9B37C29F98FB1E54DE2261"
+  },
+  {
+    "path": "spine/feed-mane_upper.png",
+    "sha256": "0B81DF691FCE115D2D610C5D7F2A6BFD677871052BD0053B9BD8FDCCE5EE3010"
+  },
+  {
+    "path": "spine/feed-mask_gold.png",
+    "sha256": "66CE594CBAAD5293872BAE7C9AC446D5098E81C284C9EFFCBD0D46C5A6F1C1EE"
+  },
+  {
+    "path": "spine/feed-mouth_cap.png",
+    "sha256": "BF91CAA2DD5BC0AF7C62EE31B12D894C9507949B396F4FA5CC3CC65018AB4286"
+  },
+  {
+    "path": "spine/feed-mouth_inner.png",
+    "sha256": "54A16DA503B5CCA722304043B35D19CC22AFA2ADF18664139620CA11AF90FF98"
+  },
+  {
+    "path": "spine/feed-teeth_lower.png",
+    "sha256": "47BFF445884B5FB3E74C04FA07677EBF97FD6F62EB9719DCC36FB26EE959764E"
+  },
+  {
+    "path": "spine/feed-teeth_upper.png",
+    "sha256": "8937C6DA3C43F612224864CD099A4248A7826D1E873B2CD81EA52CE89F481327"
+  },
+  {
+    "path": "spine/feed-tongue.png",
+    "sha256": "573AE82B79A875FC281E6D20ADBAA9BF7C64BDC0D0E83E54126D006ADDBBA19A"
+  },
+  {
+    "path": "spine/feed-wing_far.png",
+    "sha256": "C71F6AFD2973661A23BB51677E9E2D067E57F02509FA9B1CA9ADC21024A475FF"
+  },
+  {
+    "path": "spine/feed-wing_near.png",
+    "sha256": "68C4DA4A9E6811BFF5D7DEF4587ED2DC16D7B588AD9AFE2123CF5B7DD3A96936"
+  },
+  {
+    "path": "spine/feed.atlas",
+    "sha256": "6314DF694F97911378810C80EE3C146B8ADAD839A8C7C54CF020E4A4A3E655EE"
+  },
+  {
+    "path": "spine/feed.motion",
+    "sha256": "E352AF79F30222BA8036BA0F6A7560D4E8A6828D317A62495EE361C455F36B87"
+  },
+  {
+    "path": "spine/feed.spmeta",
+    "sha256": "AFCEBDF93811218170B4268BCF7D4B9A3B6906088A9FA77AD30CCCBDF5F43301"
+  },
+  {
+    "path": "spine/hand-brand-emission.png",
+    "sha256": "0931315A4F6BDB71590449A324BD221AADE741743F1CF8CC81E127A8F1D66B71"
+  },
+  {
+    "path": "spine/hand-brand-front.png",
+    "sha256": "334202766AEED34A4FB0FE8E37B5219828EE1B6AF17C0FA986881F342041AC8B"
+  },
+  {
+    "path": "spine/hand-brand-glow.png",
+    "sha256": "27B28508D23AB25B80AAA22FB89BB8282AD169CF5DADB278FD98853A7F3B8980"
+  },
+  {
+    "path": "spine/hand-brand-iron.png",
+    "sha256": "077D351A39020D144B7F0BF75AF1249170FFC1831686FC1F8262F2DD0B81486F"
+  },
+  {
+    "path": "spine/hand-brand-rear.png",
+    "sha256": "80FFC8D4D2D1258897D097503D8C826881DC8F15EF001526B31389CBCE1F750E"
+  },
+  {
+    "path": "spine/hand-brand-wisp.png",
+    "sha256": "21D16A4F35246DDEC04B3584BAB48715B386BDA48FD8E2900B038CA23DC8810F"
+  },
+  {
+    "path": "spine/hand-brand.atlas",
+    "sha256": "2537B11DF5F381038D799FFADED2ABE207C07FC23942FFF3EE6C639F8A932D94"
+  },
+  {
+    "path": "spine/hand-brand.spjson",
+    "sha256": "4D0C19095AC782C98BCE5ECD7DCF7B650D9CD28BD6402E710E2E8BE9D71386CA"
+  },
+  {
+    "path": "spine/hand-ring-bell.png",
+    "sha256": "C57CF5520858CB0B4170435CB1105FF65C63953DBD110814BAD57BAB881B0B19"
+  },
+  {
+    "path": "spine/hand-ring-front.png",
+    "sha256": "1C3527EA7F80D13F4C4E5D58B9BB171F11D8FF20CCBED2AC906494AF8CEDCCB2"
+  },
+  {
+    "path": "spine/hand-ring-rear.png",
+    "sha256": "61DD6E772B8AD9445558B19E5505D3A14E1B1A2E09CEEAEFD0461276D14F2252"
+  },
+  {
+    "path": "spine/hand-ring.atlas",
+    "sha256": "FCC55AB9F08AFE8747811266616E259A2F1A03EBB5DF806E740850F38CE79DBF"
+  },
+  {
+    "path": "spine/hand-ring.spjson",
+    "sha256": "521E755DE6FDCE3E67C33CB81BFBDCA853CF025B676026F96963322F5E93F97D"
+  },
+  {
+    "path": "spine/impervious-blur.gdshader",
+    "sha256": "BCD299EDCA4020BE90C2BECE8C4CC58126262E36C39BC81714D51DDA8CC43298"
+  },
+  {
+    "path": "spine/impervious-composite.gdshader",
+    "sha256": "252E39956EEAAE2AF19012879EB28444851DC84BFA04878A3BC06BF85FD3E5CB"
+  },
+  {
+    "path": "spine/impervious-material.gdshader",
+    "sha256": "EAF8AA1AEF603C00F7BA8A2AE365E335A20675F46FED7D8464CDE35114442CB0"
+  },
+  {
+    "path": "spine/impervious-textures.spmeta",
+    "sha256": "FAF3B46FA5200BB2A9664A6FA867FD1B992CB99DE5A2B5CBD87EB95E325ED350"
+  },
+  {
+    "path": "spine/impervious.motion",
+    "sha256": "29C713ECBEEC21E965D87CE6AAEC9961C861446EF2CE99FB3792D1003FB79F85"
+  },
+  {
+    "path": "spine/ironclad_2.png",
+    "sha256": "71E89BA1F3D64FDD75DCAB3774989BEAB03A8098E50E575E72D3F682EA91A509"
+  },
+  {
+    "path": "spine/ironclad_3.png",
+    "sha256": "5A3F8A3F0F56EF6BF6AF33DCE309202C2F7E11FDA89212E9C7271E80B59D6C93"
+  },
+  {
+    "path": "spine/ironclad_4.png",
+    "sha256": "DDDB3C8E0F2B6EDDF05504EDE8F28FFB195B0CE93ADC7104EFB47D494F2D8F92"
+  },
+  {
+    "path": "spine/ironclad-impervious.spjson",
+    "sha256": "D3DA86237626792E4A25FB4D207EA23E02B48610DBDEBF7E96733446B37126FD"
+  },
+  {
+    "path": "spine/ironclad-second-wind.spjson",
+    "sha256": "ABEC67AD39B94D1C8BE1DF542BB0AEEFE9A9AA33F3C73E5FC6B18B65FFE65423"
+  },
+  {
+    "path": "spine/ironclad-shield-textures.spmeta",
+    "sha256": "796B5B1AECA0DB6DBDBEE780EA4378560027132018EA6E41534B78E4566B44EF"
+  },
+  {
+    "path": "spine/ironclad-shield.spjson",
+    "sha256": "41FF90392C8255BC3CDC787A0373D2B719F83102537235C5C676F7E0D970D192"
+  },
+  {
+    "path": "spine/ironclad.png",
+    "sha256": "8A79D5FD492D39D0B06395C0AF3CFD1A90E9FA8F46C23B67BFF6C67C030AF13D"
+  },
+  {
+    "path": "spine/second-wind-textures.spmeta",
+    "sha256": "B887A042AF1D016248AA7F519B92D46DAA67B8227475CE9F484954DAACDFCE7C"
+  },
+  {
+    "path": "spine/second-wind.motion",
+    "sha256": "E21B325EA734C6300CA33EB89C715B2B1A288712BB31585BC5FDBF22155CAABA"
+  },
+  {
+    "path": "spine/shield-custom.png",
+    "sha256": "E0C1540D0EB23F12E03E4B4AB7CBB28B57DA7D237EAC38159A571E89B3CC032B"
+  },
+  {
+    "path": "spine/shield.motion",
+    "sha256": "62648FCB7F1A823CC73FC1EF00F290BDDB53EF0F9BB5DAA56BB809768DFF43B3"
+  },
+  {
+    "path": "spine/shrug-it-off-textures.spmeta",
+    "sha256": "211C05436B67FB56841F0A536DE9324DF26952E9B8F050A79E9DBD04EC154D5A"
+  },
+  {
+    "path": "spine/shrug-it-off.motion",
+    "sha256": "C412268979A37AC6D3FF88CB37B60985CA60A444417917A7A74DCFB298DDAA7C"
+  },
+  {
+    "path": "spine/shrug-it-off.spjson",
+    "sha256": "26D7A9CDECCB79CDA46FFBC86B9D193EA95FDC083B449E3EA1D92F97E98899A3"
+  },
+  {
+    "path": "spine/shrug-palm-l.png",
+    "sha256": "67FCB19928B0A24238997980A34EF197492EB966918001E92ECB2AA963D84CF7"
+  },
+  {
+    "path": "spine/shrug-palm-r.png",
+    "sha256": "AF77C059BE7ED23344CE56C7902E4F81874ABDD6E41674D439E294EA5EBD62DF"
+  },
+  {
+    "path": "spine/slam-effects.gdshader",
+    "sha256": "89517B22AF2452C108D550800E23A7616419065D2A3F18C82FEBF437F3B78690"
+  },
+  {
+    "path": "spine/weapon-bash-break-mace.png",
+    "sha256": "5EE57A0CCB747E6C1A104B4B1BCF82DA2AC4E9754D3F674B635F37CD6169D4F2"
+  },
+  {
+    "path": "spine/weapon-bludgeon-hammer.png",
+    "sha256": "75BABCADF0C0E11C123B6A79158AC842598660B4BA0818CA2BEE22BA5B1CCA86"
+  }
+]
